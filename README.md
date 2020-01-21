@@ -2,7 +2,6 @@
 
 The organisers and the [GIScience Research Group (GIScRG)](https://quantile.info/giscrg/) of the [Royal Geographical Society](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Innovative Digital Geographies: Pushing against quantitative and qualitative boundaries ** session at the [RGS-IBG Annual International Conference 2020](https://www.rgs.org/research/annual-international-conference/).
 
-Gardner, Zoe <>
 
 ## Instructions for Authors
 Please submit abstracts of no more than 250 words (excluding references) for 15-minute presentations to [zg61@leicester.ac.uk](mailto:zg61@leicester.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Innovative%20Digital%20Geographies]%20Abstract%20submission) before January 31st, 2020.
