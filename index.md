@@ -3,6 +3,7 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
+  overlay_filter: 0.25
   overlay_image: /assets/images/students_multicultural_smartphones_360495389_cut.png
   caption: "Photo credit: oneinchpunch via Shutterstock / University of Leicester"
   actions:
