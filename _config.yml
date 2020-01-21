@@ -1,0 +1,59 @@
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+
+# Plugins
+plugins:
+  - jekyll-include-cache
+
+title: Innovative Digital Geographies
+description: >- # this means to ignore newlines until "baseurl:"
+  Pushing against quantitative and qualitative boundaries
+minimal_mistakes_skin: default
+search: true
+
+include:
+  - _pages
+
+author:
+  name   : "Stefano De Sabbata"
+  avatar : "/assets/images/Stefano_DeSabbata_August2019_small_square.jpg"
+  bio    : "Lecturer in Quantitative Geography at the University of Leicester, Research Associate at the Oxford Internet Institute"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://stefanodesabbata.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sdesabbata"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://https://twitter.com/maps4thought"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/maps4thought"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sdesabbata"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://https://twitter.com/maps4thought"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/maps4thought"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true

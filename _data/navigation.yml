@@ -1,0 +1,7 @@
+main:
+  - title: "Lectures"
+    url: /Lectures/bookdown
+  - title: "Practicals"
+    url: /Practicals/bookdown
+  - title: "About"
+    url: /about/
