@@ -3,13 +3,12 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/students multicultural smartphones_360495389.jpg
+  overlay_image: /assets/images/students multicultural smartphones_360495389_cut.jpg
   caption: "Photo credit: oneinchpunch via Shutterstock / University of Leicester"
   actions:
     - label: "Submit an abstract"
       url: "mailto:zg61@leicester.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Innovative%20Digital%20Geographies]%20Abstract%20submission"
 excerpt: >
-  Innovative Digital Geographies
   Pushing against quantitative and qualitative boundaries  
 ---
 
