@@ -12,8 +12,6 @@ excerpt: >
   Pushing against quantitative and qualitative boundaries  
 ---
 
-# Innovative Digital Geographies 
-
 The organisers and the [GIScience Research Group (GIScRG)](https://quantile.info/giscrg/) of the [Royal Geographical Society](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Innovative Digital Geographies: Pushing against quantitative and qualitative boundaries** session at the [RGS-IBG Annual International Conference 2020](https://www.rgs.org/research/annual-international-conference/).
 
 
